@@ -1,4 +1,4 @@
-package multithreadingdemo.p4locks;
+package multithreadingdemo.p04locks;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReadWriteLock;

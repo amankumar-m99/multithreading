@@ -1,4 +1,4 @@
-package multithreadingdemo.p4locks;
+package multithreadingdemo.p04locks;
 
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.locks.Lock;

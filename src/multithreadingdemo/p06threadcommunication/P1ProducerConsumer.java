@@ -1,4 +1,4 @@
-package multithreadingdemo.p6threadcommunication;
+package multithreadingdemo.p06threadcommunication;
 
 public class P1ProducerConsumer {
 

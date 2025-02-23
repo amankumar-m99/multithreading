@@ -1,4 +1,4 @@
-package multithreadingdemo.p3syncronization;
+package multithreadingdemo.p03syncronization;
 
 public class Syncronization {
 

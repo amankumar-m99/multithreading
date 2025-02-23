@@ -1,4 +1,4 @@
-package multithreadingdemo.p2essentialmethods;
+package multithreadingdemo.p02essentialmethods;
 
 public class ThreadDeamon {
 

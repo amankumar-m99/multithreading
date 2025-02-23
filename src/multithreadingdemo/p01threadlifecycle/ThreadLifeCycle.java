@@ -1,4 +1,4 @@
-package multithreadingdemo.p1threadlifecycle;
+package multithreadingdemo.p01threadlifecycle;
 
 public class ThreadLifeCycle {
 

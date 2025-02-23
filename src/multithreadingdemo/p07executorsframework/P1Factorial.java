@@ -1,4 +1,4 @@
-package multithreadingdemo.p7executorfactorial;
+package multithreadingdemo.p07executorsframework;
 
 public class P1Factorial {
 

@@ -1,4 +1,4 @@
-package multithreadingdemo.p5deadlock;
+package multithreadingdemo.p05deadlock;
 
 public class P1Deadlock {
 	
